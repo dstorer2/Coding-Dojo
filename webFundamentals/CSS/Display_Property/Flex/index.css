@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+}
+.col , .col-2{
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightcyan;
+}
+.col-2{
+    flex: 2;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#board{
+    height: fit-content;
+    width: fit-content;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.square1{
+    height: 100%;
+    width: 50px;
+    background-color: red;
+}
+.square2{
+    background-color: black;
+    height: 100%;
+    width: 50px;
+}

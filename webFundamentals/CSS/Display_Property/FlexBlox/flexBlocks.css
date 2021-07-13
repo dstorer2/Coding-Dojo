@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 940px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 10px;
+}
+.top-nav {
+    margin: 10px;
+    height: 150px;
+    width: 100%;
+    background-color: green;
+}
+.side-nav {
+    margin: 10px;
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    margin: 10px;
+    float: right;
+}
+.sub-content {
+    display: inline-block;
+    margin: 10px;
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+}
+#advertisement {
+    display: flex;
+    margin: 10px;
+    height: 120px;
+    width: 100%;
+    background-color: purple;
+}
+
+

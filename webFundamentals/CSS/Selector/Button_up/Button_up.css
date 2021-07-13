@@ -1,0 +1,23 @@
+#search{
+    background-color: snow;
+    color: aquamarine;
+    border: 2px solid aquamarine;
+    border-radius: 5px;
+    margin: 20px 40px 0px 20px;
+}
+#plus{
+    color: white;
+    background-color: aquamarine;
+    size: 30px 30px;
+    border-radius: 50%;
+    border: 2px solid aquamarine;
+    margin: 10px 40px 0px 20px;
+}
+#createAcct{
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+    font-weight: 100;
+    box-shadow: 2px 2px black;
+    margin: 10px 40px 0px 20px;
+}

@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    z-index: 1;
+    position: fixed;
+    top: 0px;
+    height: 75px;
+    width: 100%;
+    background-color: rgb(26, 25, 25);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navLInks{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+#navTitle{
+    font-size: 50px;
+    margin: 10px 20px 10px 0px;
+}
+#pType1{
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 20px;
+}
+#pType2{
+    font-size: 20px;
+}
+#leave{
+    margin-right: 150px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    background-color: rgb(67, 190, 190);
+    border: 2px solid black;
+    color: white;
+}
+.canvas{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    margin-left: 150px;
+    margin-top: 110px;
+    height: 1000px;
+    width: 45%;
+    display: flex;
+    flex-flow: column ;
+}
+.right{
+    margin-right: 152px;
+    margin-top: 110px;
+    height: 1000px;
+    width: 30%;
+    display: flex;
+    flex-flow: column;
+    justify-content: end;
+}
+#userCard{
+    margin-right: 5%;
+    height: 400px;
+    width: 95%;
+    border: 2px solid grey;
+}
+#topHalf{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(67, 190, 190);
+    display: flex;
+}
+#userIcon{
+    border-radius: 75px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 25px;
+    left: 30px;
+}
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+#bottomHalf{
+    height: 75%;
+    width: 100%;
+    display: inline-block;
+}
+#content{
+    margin: 60px 30px;
+}
+h1{
+    font-size: 30px;
+    margin: 0px;
+    width: 100%;
+}
+#box{
+    height: 40px;
+    width: 30px;
+}
+p{
+    font-size: 20px;
+}
+#box2{
+    height: 40px;
+    width: 40px;
+}
+#location, #profile{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+#Seattle{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#edit{
+    margin-left: 10px;
+    color: rgb(110, 110, 238);
+    text-decoration: underline;
+}
+#experience{
+    height: 400px;
+    width: 95%;
+    border: 2px solid grey;
+    margin-top: 30px;
+}
+#top{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(54, 54, 54);
+    display: inline-flex;
+    align-items: center;
+}
+#edu{
+    color: white;
+    margin: 10px 20px;
+    font-size: 25px;
+}
+#bottom{
+    margin: 20px;
+}
+#date{
+    color: grey;
+    margin: 10px 0px;
+}
+#descr{
+    line-height: auto;
+}
+#requests{
+    height: 300px;
+    width: 100%;
+    border: 2px solid grey;
+}
+#friends{
+    height: 550px;
+    margin-top: 30px;
+    width: 100%;
+    border: 2px solid grey;}
+#num{
+    margin-left: 20px;
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 40px;
+    color: white;
+}
+#conreq {
+    margin-left: 20px;
+    width: 250px;
+    height: 30px;
+    color: white;
+    font-size: 25px;
+}
+#five{
+    margin-left: 20px;
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 50%;
+    color: white;
+}
+#yourcon {
+    margin-left: 20px;
+    width: 250px;
+    height: 30px;
+    color: white;
+    font-size: 25px;
+}
+#proPic{
+    margin: 10px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+#user{
+    display: flex;
+    justify-content: space-between;
+}
+#namePic{
+    display: flex;
+    align-items: center;
+}
+#name{
+    margin-left: 10px;
+    font-size: 40px;
+}
+#accrej{
+    display: flex;
+    align-items: center;
+}
+#choice{
+    margin: 5px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+#middle{
+    padding: 20px;
+    height: 400px;
+}
+#lower{
+    font-size: 30px;
+    padding: 10px 30px;
+    text-decoration: underline;
+    color: rgb(110, 110, 238);
+    height: 50px;
+    border-top: 2px solid grey;
+}

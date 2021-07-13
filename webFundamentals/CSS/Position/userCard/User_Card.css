@@ -1,0 +1,76 @@
+#container{
+    height: 300px;
+    width: 500px;
+    margin: 75px auto;
+    border: 2px solid grey;
+}
+#topHalf{
+    height: 75px;
+    width: 100%;
+    background-color: rgb(67, 190, 190);
+    display: flex;
+}
+#userIcon{
+    height: 75px;
+    width: 75px;
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+#bottomHalf{
+    height: 75%;
+    width: 100%;
+    display: inline-block;
+}
+#content{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin: 40px 20px;
+}
+h1{
+    margin: 0px;
+    width: 100%;
+}
+p{
+    display: inline-block;
+    height: 40px;
+    width: 100%;
+}
+#image{
+    height: 20px;
+    width: 20px;
+}
+p{
+    margin: 2px 0px;
+    height: auto;
+}
+#location{
+    margin: 15px 0px;
+    display: flex;
+}
+#box{
+    height: 20px;
+    width: 15px;
+}
+#Seattle{
+    margin-left: 15px;
+    font-size: larger;
+}
+
+#profile{
+    display: flex;
+    margin-top:  10px;
+    text-decoration: underline;
+    text-decoration-color: rgb(22, 22, 204);
+}
+#box2{
+    height: 20px;
+    width: 20px;
+}
+#edit{
+    margin-left: 10px;
+    color: rgb(22, 22, 204);
+}

@@ -1,0 +1,21 @@
+.container {
+    margin: 0 auto;
+    width: 960px;
+    height: 400px;
+    background-color: silver;
+    display: flex;
+    align-items: center;
+}
+.col {
+    padding: 10px;
+    background-color: blanchedalmond;
+    width: 300px;
+}
+.col-2 {
+    padding: 10px;
+    background-color: lightcyan;
+    width: 400px;
+}
+.col p, .col-2 p{
+    font-size: 1.2rem;
+}

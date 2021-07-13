@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming Dojo</title>
+    <link rel="stylesheet" href="beltReview.css">
+</head>
+<body>
+    <nav>
+        <div id="logo">Gaming<span>Dojo</span></div>
+        <div id="navRight">
+            <select name="navDropdown" id="drop">
+                <option value="">USD $</option>
+                <option value="">Euro €</option>
+                <option value="">yen</option>
+                <option value="">peso</option>
+            </select>
+            <div id="shoppingCart">
+                <img id="navIcon" src="https://findicons.com/files/icons/1700/2d/512/cart.png" alt="shopping cart icon">
+                <div id="cartQty">0</div>
+            </div>
+            <img id= "navIcon" src="https://www.jing.fm/clipimg/detail/209-2093777_white-magnifying-glass-icon-png-search-white-icon.png" alt="">
+        </div>
+    </nav>
+
+    <div id="container">
+        <h3>Highlights</h3>
+        <div id="slideshow">
+            <img onclick="switchImageLeft()" class="chevron" src="https://image.flaticon.com/icons/png/512/120/120888.png" alt="left arrow">
+            <img id="mainImage" src="img/riot-games-image.jpg" alt="game image">
+            <img onclick="switchImageRight()" class="chevron" id="rightArrow" src="https://image.flaticon.com/icons/png/512/120/120888.png" alt="right arrow">
+        </div>
+        <div id="slideshowPageBox">
+            <div class="pageRectangle grey"></div>
+            <div class="pageRectangle purple"></div>
+            <div class="pageRectangle grey"></div>
+            <div class="pageRectangle grey"></div>
+        </div>
+        <div id="gameBoxes">
+            <div id="game">
+                <img id="topHalfImage" src="" alt="small game image">
+                <h3>Cafe Niko: Gold Edition</h3>
+                <div class="platforms">
+                    <img id="platformLogo" src="" alt="windows">
+                    <img id="platformLogo" src="" alt="mac">
+                </div>
+                <div id="gameDetails">
+                    <div class="discount">20%</div>
+                    <div class="dollarsOff">
+                        <h4 class="strikethrough">$40.00</h4>
+                        <h3>$32.00</h3>
+                    </div>
+                    <button onclick="buyGame()">BUY</button>
+                </div>
+            </div>
+            <div id="game">
+                <img id="topHalfImage" src="" alt="small game image">
+                <h3>Pixel ninjas 2</h3>
+                <div class="platforms">
+                    <img id="platformLogo" src="" alt="windows">
+                    <img id="platformLogo" src="" alt="mac">
+                </div>
+                <div id="gameDetails">
+                    <div class="discount">20%</div>
+                    <div class="dollarsOff">
+                        <h4 class="strikethrough">$40.00</h4>
+                        <h3>$32.00</h3>
+                    </div>
+                    <button onclick="buyGame()">BUY</button>
+                </div>
+            </div>
+            <div id="game">
+                <img id="topHalfImage" src="" alt="small game image">
+                <h3>Stonepunk 100000 BCE</h3>
+                <div class="platforms">
+                    <img id="platformLogo windows" src="" alt="windows">
+                    <img id="platformLogo apple" src="" alt="mac">
+                    <img onclick="linuxClick()" id="platformLogo linux" src="" alt="linux">
+                </div>
+                <div id="gameDetails">
+                    <div class="discount">NEW</div>
+                    <div class="dollarsOff">
+                        <h4 class="strikethrough">$40.00</h4>
+                        <h3>$32.00</h3>
+                    </div>
+                    <button onclick="buyGame()">BUY</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="beltReview.js"></script>
+</body>
+</html>
