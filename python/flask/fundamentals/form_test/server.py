@@ -11,7 +11,7 @@ def create_user():
     print("Got Post Info")
     print(request.form)
     session['name'] = request.form['name']
-    session['email'] = request.form['email']
+    session['email'] = request.form['name']
 
 
     return redirect("/show")
