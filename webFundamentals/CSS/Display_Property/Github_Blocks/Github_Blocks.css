@@ -1,0 +1,47 @@
+#canvas{
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: snow;
+    width: 850px;
+    height: auto;
+    margin: 20px;
+
+}
+.container1{
+    display: flex;
+    margin: 5px;
+    height: 250px;
+    width: 85%;
+    background-color:lightblue;
+}
+.container2{
+    display: flex;
+    margin: 5px;
+    height: 250px;
+    width: 85%;
+    background-color:peachpuff;
+}
+.container3{
+    display: flex;
+    margin: 5px;
+    height: 250px;
+    width: 85%;
+    background-color: white;
+}
+#block{
+    margin: auto;
+    height: 215px;
+    width: 215px;
+    background-color: white;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
