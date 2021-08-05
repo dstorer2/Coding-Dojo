@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/bin/Debug/net6.0/Boxing
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/bin/Debug/net6.0/Boxing.deps.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/bin/Debug/net6.0/Boxing.runtimeconfig.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/bin/Debug/net6.0/Boxing.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/bin/Debug/net6.0/ref/Boxing.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/bin/Debug/net6.0/Boxing.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.AssemblyInfo.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/ref/Boxing.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Boxing/obj/Debug/net6.0/Boxing.genruntimeconfig.cache

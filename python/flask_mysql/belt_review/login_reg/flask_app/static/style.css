@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navleft{
+    display: flex;
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    margin-top: 50px;
+    width: 35%;
+    height: 600px;
+    padding: 25px;
+    background-color: rgb(41, 41, 97);
+    color: white;
+    align-items: center;
+}
+
+.form-check{
+    padding: 0;
+}
+
+#flexCheckDefault{
+    margin-left: 0;
+}
+#flexRadioDefault1, #flexRadioDefault2{
+    margin-left: 0;
+}
+
+h1{
+    color: rgb(177, 177, 22);
+}
+
+p1{
+    font-size: 40px;
+    color: blue;
+}
+
+h3{
+    color: rgb(177, 177, 22);
+    font-size: 30px;
+    text-decoration: underline;
+}
+span{
+
+    font-size: large;
+}

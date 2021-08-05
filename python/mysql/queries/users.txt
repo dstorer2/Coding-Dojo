@@ -1,0 +1,22 @@
+INSERT into users(first_name, last_name, email, created_at, updated_at)
+VALUES ("David", "Storer", "example@email.com", now(), now())
+
+INSERT into users(first_name, last_name, email, created_at, updated_at)
+VALUES ("Bobandy", "Bobbins", "bigbo@bob.com", now(), now())
+
+INSERT into users(first_name, last_name, email, created_at, updated_at)
+VALUES ("Ol' Garfy", "Jenkins", "garfdawg@jenks.com", now(), now())
+
+SELECT * FROM users
+
+SELECT * FROM users WHERE email = "example@email.com"
+
+SELECT * FROM users WHERE id = 3
+
+UPDATE users SET last_name = "Pancakes" WHERE id = 3
+
+DELETE FROM users WHERE id = 2
+
+SELECT * FROM users ORDER BY first_name
+
+SELECT * FROM users ORDER BY first_name DESC

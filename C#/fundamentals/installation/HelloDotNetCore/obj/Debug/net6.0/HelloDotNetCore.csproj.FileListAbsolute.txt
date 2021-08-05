@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/bin/Debug/net6.0/HelloDotNetCore
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/bin/Debug/net6.0/HelloDotNetCore.deps.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/bin/Debug/net6.0/HelloDotNetCore.runtimeconfig.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/bin/Debug/net6.0/HelloDotNetCore.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/bin/Debug/net6.0/ref/HelloDotNetCore.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/bin/Debug/net6.0/HelloDotNetCore.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.AssemblyInfo.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/ref/HelloDotNetCore.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/obj/Debug/net6.0/HelloDotNetCore.genruntimeconfig.cache

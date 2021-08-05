@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 10px;
+
+}
+
+img{
+    height: 200px;
+}
+
+.middle{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/bin/Debug/net6.0/Puzzles
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/bin/Debug/net6.0/Puzzles.deps.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/bin/Debug/net6.0/Puzzles.runtimeconfig.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/bin/Debug/net6.0/Puzzles.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/bin/Debug/net6.0/ref/Puzzles.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/bin/Debug/net6.0/Puzzles.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfo.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/ref/Puzzles.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Puzzles/obj/Debug/net6.0/Puzzles.genruntimeconfig.cache

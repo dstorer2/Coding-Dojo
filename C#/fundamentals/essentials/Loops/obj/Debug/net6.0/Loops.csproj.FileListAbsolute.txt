@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/bin/Debug/net6.0/Loops
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/bin/Debug/net6.0/Loops.deps.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/bin/Debug/net6.0/Loops.runtimeconfig.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/bin/Debug/net6.0/Loops.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/bin/Debug/net6.0/ref/Loops.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/bin/Debug/net6.0/Loops.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.AssemblyInfo.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/ref/Loops.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/Loops/obj/Debug/net6.0/Loops.genruntimeconfig.cache

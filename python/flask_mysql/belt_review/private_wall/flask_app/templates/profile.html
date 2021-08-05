@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Login and Registration</title>
+</head>
+<body>
+    <nav>
+        <div class="rightnav">
+            <h1>CodingDojo Wall</h1>
+        </div>
+        <div class="leftnav">
+            <h3>Welcome, {{ user.first_name}}!</h3>
+            <a href="/">Logoff</a>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="left">
+            
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>*count* message(s) for you!</th>
+                    </tr>
+                </thead>
+                {% if messages%}
+                {% for message in messages %}
+                <tbody>
+                    <tr>
+                        <form action="/delete" method="POST">
+                            <th scope="col">{{ message['senders.first_name'] }} said: {{ message.content }}</th>
+                            <input type="hidden" name="message_id" value="{{ message.id }}">
+                            <input type="submit" value="Delete!">
+                        </form>
+                    </tr>
+                </tbody>
+                {% endfor %}
+                {% else %}
+                <tbody>
+                    <tr>
+                        <td>No messages to display!</td>
+                    </tr>
+                </tbody>
+                {% endif %}
+
+
+            </table>
+        </div>
+        <div class="right">
+            <h1>Send messages</h1>
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    {% for message in messages %}
+                        <p class="text-danger">{{ message }}</p>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+            {% for user in all_users %}
+            <form action="/send_message", method="POST">
+                <div class="input-group">
+                    <span class="input-group-text">{{ user.first_name }}</span>
+                    <textarea name="content" class="form-control" aria-label="With textarea"></textarea>
+                    <input type="hidden" name="recipient_id" value="{{ user.id }}">
+                    <input type="submit" value="Send">
+                </div>
+            </form>
+            {% endfor %}
+        </div>
+    </div>
+    
+</body>
+</html>

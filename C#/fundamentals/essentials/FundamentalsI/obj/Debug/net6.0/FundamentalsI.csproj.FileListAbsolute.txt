@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/bin/Debug/net6.0/FundamentalsI
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/bin/Debug/net6.0/FundamentalsI.deps.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/bin/Debug/net6.0/FundamentalsI.runtimeconfig.json
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/bin/Debug/net6.0/FundamentalsI.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/bin/Debug/net6.0/ref/FundamentalsI.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/bin/Debug/net6.0/FundamentalsI.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.AssemblyInfo.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/ref/FundamentalsI.dll
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.pdb
+/Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/essentials/FundamentalsI/obj/Debug/net6.0/FundamentalsI.genruntimeconfig.cache

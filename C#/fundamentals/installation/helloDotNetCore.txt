@@ -1,0 +1,15 @@
+davidstorer@Davids-MBP installation % dotnet --version
+6.0.100-rc.1.21403.2
+davidstorer@Davids-MBP installation % dotnet new console -o HelloDotNetCore
+The template "Console Application" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on /Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/HelloDotNetCore.csproj...
+  Determining projects to restore...
+  Restored /Users/davidstorer/Documents/Coding Dojo/C#/fundamentals/installation/HelloDotNetCore/HelloDotNetCore.csproj (in 126 ms).
+Restore succeeded.
+
+davidstorer@Davids-MBP installation % cd HelloDotNetCore 
+davidstorer@Davids-MBP HelloDotNetCore % dotnet run
+Hello, World!
+davidstorer@Davids-MBP HelloDotNetCore % 
