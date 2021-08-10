@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form action="surveyResponse" method="post">
+        
+        <input class="form-control" type="text" placeholder="Full name" name="name">
+        <select class="form-control" name="location">
+            <option value="Chicago" selected>Chicago</option>
+            <option value="Seattle">Seattle</option>
+            <option value="Dallas">Dallas</option>
+            <option value="Tacoma">Tacoma</option>
+            <option value="Mt. Everest">Mt. Everest</option>
+            <option value="Chatanooga">Chatanooga</option>
+            <option value="Topeka">Topeka</option>
+        </select>
+        <select class="form-control" name="favLang">
+            <option value="C#" selected>C#</option>
+            <option value="Python">Python</option>
+            <option value="CSS">CSS</option>
+            <option value="HTML">HTML</option>
+            <option value="Java">Java</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="Spanish">Spanish</option>
+        </select>
+        <div class="form-group">
+            <label for="comment">Comment (optional):</label>
+            <textarea name="comment" cols="30" rows="10"></textarea>
+        </div>
+        <input type="submit" class="btn btn-dark btn-large">
+    </form>
+</div>

@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/bin/Debug/net6.0/ObjectConstruction
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/bin/Debug/net6.0/ObjectConstruction.deps.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/bin/Debug/net6.0/ObjectConstruction.runtimeconfig.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/bin/Debug/net6.0/ObjectConstruction.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/bin/Debug/net6.0/ref/ObjectConstruction.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/bin/Debug/net6.0/ObjectConstruction.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.AssemblyInfo.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ref/ObjectConstruction.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/ObjectConstruction/obj/Debug/net6.0/ObjectConstruction.genruntimeconfig.cache

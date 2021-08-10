@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/bin/Debug/net6.0/CardDeck
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/bin/Debug/net6.0/CardDeck.deps.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/bin/Debug/net6.0/CardDeck.runtimeconfig.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/bin/Debug/net6.0/CardDeck.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/bin/Debug/net6.0/ref/CardDeck.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/bin/Debug/net6.0/CardDeck.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.AssemblyInfo.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/ref/CardDeck.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/CardDeck/obj/Debug/net6.0/CardDeck.genruntimeconfig.cache

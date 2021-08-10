@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/bin/Debug/net6.0/Phones
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/bin/Debug/net6.0/Phones.deps.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/bin/Debug/net6.0/Phones.runtimeconfig.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/bin/Debug/net6.0/Phones.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/bin/Debug/net6.0/ref/Phones.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/bin/Debug/net6.0/Phones.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.AssemblyInfo.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/ref/Phones.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/Phones/obj/Debug/net6.0/Phones.genruntimeconfig.cache

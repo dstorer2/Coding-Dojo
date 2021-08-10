@@ -1,0 +1,16 @@
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.deps.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.runtimeconfig.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/bin/Debug/net6.0/ref/HungryNinja.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.AssemblyInfo.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.ImplicitNamespaceImports.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/ref/HungryNinja.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.genruntimeconfig.cache
