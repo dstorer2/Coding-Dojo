@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OezvgRCtB6BWtf/MQfjJL5Dd8ge8Wc2L2tAh1UurqzZCv+bITKNhwhHCp0IpznR19XlGMGa7r+qMDxe2Ri1QIg==",
+  "dgSpecHash": "GhAMcz43j2oA8weYULLLczxNPNP4jntQtxR3KXKGRtkMr5r3UGaU6oTd8yivesSLBtZD5ysieiCy+y68Op/MuQ==",
   "success": true,
-  "projectFilePath": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/DojoSurvey.csproj",
+  "projectFilePath": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/DojoSurvey.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

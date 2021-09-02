@@ -1,0 +1,69 @@
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Dojo Activity Center</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark">Welcome, @ViewBag.User.FirstName!</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Log Out</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="text-center">
+        <div class="table-wrapper-scroll-y my-custom-scrollbar">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Activity</th>
+                    <th scope="col">Date and Time</th>
+                    <th scope="col">Duration</th>
+                    <th scope="col">Event Coordinator</th>
+                    <th scope="col">No. of Participants</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var gat in ViewBag.AllGatherings)
+                {
+                    <tr>
+                        <td><a href="/gathering/@gat.GatheringId">@gat.Title</a></td>
+                        <td>@gat.Date.ToString("MMM dd") at @gat.Time.ToString("h:mm tt") </td>
+                        <td>@gat.Duration @gat.DurationUnit</td>
+                        <td>@gat.Creator.FirstName @gat.Creator.LastName</td>
+                        <td>@gat.Attendees.Count</td>
+                        @{
+                            if(gat.Creator.UserId == ViewBag.User.UserId){
+                                <td><a href="/gathering/@gat.GatheringId/delete" class="btn form-btn btn-danger">Delete</a></td>
+                            }
+                            else if(gat.Creator.UserId != ViewBag.User.UserId){
+                                var RSVP = false;
+                                foreach(var user in gat.Attendees){
+                                    if(user.UserId == ViewBag.User.UserId){
+                                        RSVP = true;
+                                    }
+                                }
+                                if(RSVP == true){
+                                    <td><a href="/attendance/@gat.GatheringId/delete" class="btn form-btn btn-danger">Leave</a></td>
+                                }
+                                else{
+                                    <td><a href="/attendance/@gat.GatheringId/submit" class="btn form-btn btn-success">Join</a></td>
+                                }
+                            }
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+        </div>
+    <a class="btn btn-lg btn-primary" href="gathering/add">New Activity</a>
+</div>

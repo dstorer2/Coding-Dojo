@@ -1,0 +1,15 @@
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/bin/Debug/net5.0/Test5.deps.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/bin/Debug/net5.0/Test5.runtimeconfig.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/bin/Debug/net5.0/Test5.runtimeconfig.dev.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/bin/Debug/net5.0/Test5.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/bin/Debug/net5.0/ref/Test5.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/bin/Debug/net5.0/Test5.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.AssemblyInfo.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/ref/Test5.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/Test5/obj/Debug/net5.0/Test5.genruntimeconfig.cache

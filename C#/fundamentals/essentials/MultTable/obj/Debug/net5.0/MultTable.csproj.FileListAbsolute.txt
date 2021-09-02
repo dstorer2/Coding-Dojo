@@ -1,0 +1,15 @@
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/bin/Debug/net5.0/MultTable.deps.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/bin/Debug/net5.0/MultTable.runtimeconfig.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/bin/Debug/net5.0/MultTable.runtimeconfig.dev.json
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/bin/Debug/net5.0/MultTable.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/bin/Debug/net5.0/ref/MultTable.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/bin/Debug/net5.0/MultTable.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.AssemblyInfo.cs
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/ref/MultTable.dll
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.pdb
+/Users/davidstorer/Documents/code/Coding Dojo/C#/fundamentals/essentials/MultTable/obj/Debug/net5.0/MultTable.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rptfmCIvG6QjB66a859hY1qAsqnpo/G3/NLKtvnAufg=",
+  "Hash": "qBEyu2acU0Mw07ZY3MzXP/WDZdU6MFPxGgC7w22OaCI=",
   "Source": "DojoSurvey",
   "BasePath": "_content/DojoSurvey",
   "Mode": "Default",
@@ -9,17 +9,17 @@
   "DiscoveryPatterns": [
     {
       "Name": "DojoSurvey/wwwroot",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/css/site.css",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/css/site.css",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,10 +33,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/favicon.ico",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/favicon.ico",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -50,10 +50,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/js/site.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/js/site.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -67,10 +67,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -84,10 +84,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -118,10 +118,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -135,10 +135,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -152,10 +152,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -186,10 +186,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -203,10 +203,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -220,10 +220,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -237,10 +237,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -254,10 +254,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -271,10 +271,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -288,10 +288,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -305,10 +305,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -322,10 +322,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -339,10 +339,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -356,10 +356,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -373,10 +373,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -390,10 +390,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -407,10 +407,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -424,10 +424,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -441,10 +441,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -475,10 +475,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -509,10 +509,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -526,10 +526,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -543,10 +543,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -560,10 +560,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -577,10 +577,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -594,10 +594,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -611,10 +611,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "DojoSurvey",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/wwwroot/",
+      "ContentRoot": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/wwwroot/",
       "BasePath": "_content/DojoSurvey",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

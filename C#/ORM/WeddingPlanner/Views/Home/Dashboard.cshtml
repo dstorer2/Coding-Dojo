@@ -1,0 +1,46 @@
+<header>
+    <h1>Welcome to the Wedding Planner</h1>
+    <a href="/" class="btn btn-sm btn-success">Log Out</a>
+</header>
+<div class="text-center">
+    <table class="table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Wedding</th>
+                <th scope="col">Date</th>
+                <th scope="col">Guests</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var wed in ViewBag.AllWeddings)
+            {
+                <tr>
+                    <td><a href="/wedding/@wed.WeddingId">@wed.Wedder1 & @wed.Wedder2</a></td>
+                    <td>@wed.Date</td>
+                    <td>@wed.Attendees.Count</td>
+                    @{
+                        if(wed.Creator.UserId == ViewBag.User.UserId){
+                            <td><a href="/wedding/@wed.WeddingId/delete">Delete</a></td>
+                        }
+                        else if(wed.Creator.UserId != ViewBag.User.UserId){
+                            var RSVP = false;
+                            foreach(var user in wed.Attendees){
+                                if(user.UserId == ViewBag.User.UserId){
+                                    RSVP = true;
+                                }
+                            }
+                            if(RSVP == true){
+                                <td><a href="/attendance/@wed.WeddingId/delete">Un-RSVP</a></td>
+                            }
+                            else{
+                                <td><a href="/attendance/@wed.WeddingId/submit">RSVP</a></td>
+                            }
+                        }
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="btn btn-lg btn-primary" href="wedding/add">New Wedding</a>
+</div>

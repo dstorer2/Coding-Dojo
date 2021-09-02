@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to CRUDelicious</h1>
+    <div class="top">
+        <p>Check out some recent dishes!</p>
+        <a href="add">Add a Dish</a>
+    </div>
+    <div class="dishList">
+        <ul>
+            @foreach(var dish in ViewBag.AllDishes){
+                <li><a href="dish/@dish.DishId">@dish.Name</a> by @dish.Chef</li>
+            }
+        </ul>
+    </div>
+
+</div>

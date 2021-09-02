@@ -1,0 +1,57 @@
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Dojo Activity Center</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Dashboard">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Log Out</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="canvas-view">
+    <header class="view-header">
+        <h2>@ViewBag.OneGathering.Title</h2>
+        @{
+        if(ViewBag.OneGathering.Creator.UserId == ViewBag.User.UserId){
+            <td><a href="/gathering/@ViewBag.OneGathering.GatheringId/delete" class="btn form-btn btn-lg btn-danger">Delete</a></td>
+        }
+        else if(ViewBag.OneGathering.Creator.UserId != ViewBag.User.UserId){
+            var RSVP = false;
+            foreach(var user in ViewBag.OneGathering.Attendees){
+                if(user.UserId == ViewBag.User.UserId){
+                    RSVP = true;
+                }
+            }
+            if(RSVP == true){
+                <td><a href="/attendance/@ViewBag.OneGathering.GatheringId/delete" class="btn form-btn btn-lg btn-danger">Leave</a></td>
+            }
+            else{
+                <td><a href="/attendance/@ViewBag.OneGathering.GatheringId/submit" class="btn form-btn btn-lg btn-success">Join</a></td>
+            }
+        }
+    }
+    </header>
+    <h4>Event Coordinator: @ViewBag.OneGathering.Creator.FirstName</h4>
+    <h4>Date and Time: @ViewBag.OneGathering.Date.ToString("MM dd yyyy") at @ViewBag.OneGathering.Time.ToString("h:mm tt")</h4>
+    <h4>Description: </h4>
+    <p>@ViewBag.OneGathering.Description</p>
+    <h4>Participants: </h4>
+    <ul>
+        @foreach (var RSVP in ViewBag.OneGathering.Attendees)
+        {
+            <li>@RSVP.User.FirstName</li>
+        }
+    </ul>
+</div>

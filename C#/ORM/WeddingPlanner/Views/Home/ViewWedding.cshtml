@@ -1,0 +1,15 @@
+<header>
+    @ViewBag.OneWedding.Wedder1 & @ViewBag.OneWedding.Wedder2's Wedding
+    <a href="/dashboard">Dashboard</a>
+    <a href="/">Log Out</a>
+</header>
+<div class="text-center">
+    <p><h3>Date: @ViewBag.OneWedding.Date</h3></p>
+    <p><h3>Guests: </h3></p>
+    <ul>
+        @foreach (var RSVP in ViewBag.OneWedding.Attendees)
+        {
+            <li>@RSVP.User.FirstName</li>
+        }
+    </ul>
+</div>

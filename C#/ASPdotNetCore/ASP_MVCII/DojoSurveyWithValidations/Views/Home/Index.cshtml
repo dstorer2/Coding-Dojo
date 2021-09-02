@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model SurveyResult
+
+<div class="text-center">
+    <form asp-action="survey" asp-controller="Home" method="post">
+        <div class="form-group">
+            <span asp-validation-for="Name"></span>
+            <label asp-for="Name"></label>
+            <input asp-for="Name">
+        </div>
+        <div class="form-group">
+            <span asp-validation-for="Location"></span>
+            <label asp-for="Location"></label>
+            <select class="form-control" asp-for="Location">
+                <option value="Chicago" selected>Chicago</option>
+                <option value="Seattle">Seattle</option>
+                <option value="Dallas">Dallas</option>
+                <option value="Tacoma">Tacoma</option>
+                <option value="Mt. Everest">Mt. Everest</option>
+                <option value="Chatanooga">Chatanooga</option>
+                <option value="Topeka">Topeka</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <span asp-validation-for="FavLang"></span>
+            <label asp-for="FavLang"></label>
+            <select class="form-control" asp-for="FavLang">
+                <option value="C#" selected>C#</option>
+                <option value="Python">Python</option>
+                <option value="CSS">CSS</option>
+                <option value="HTML">HTML</option>
+                <option value="Java">Java</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="Spanish">Spanish</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <span asp-validation-for="Comment"></span>
+            <label asp-for="Comment"></label>
+            <textarea asp-for="Comment" cols="30" rows="10"></textarea>
+        </div>
+        <input type="submit" class="btn btn-dark btn-large">
+    </form>
+</div>

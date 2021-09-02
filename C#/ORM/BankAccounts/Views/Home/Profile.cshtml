@@ -1,0 +1,29 @@
+<div class="top">
+    <h1>Welcome, @ViewBag.ActiveUser.FirstName</h1>
+    <a class="btn btn-sm btn-info" href="/accounts/add">Create Acount</a>
+</div>
+<div class="text-center">
+    <h1 class="display-4">Select an account</h1>
+    <table class="table table-dark table-hover">
+        <tr>
+            <th>Account Name</th>
+            <th>Balance</th>
+            <th>View</th>
+        </tr>
+        @if(ViewBag.ActiveUser.CreatedAccounts.Count == 0){
+            <tr>
+                <td>No accounts to display. Try creating one.</td>
+            </tr>
+        }
+        else{
+            foreach(var acct in ViewBag.ActiveUser.CreatedAccounts){
+                <tr>
+                    <td>@acct.Name</td>
+                    <td>@acct.Balance</td>
+                    <td><a href="accounts/@acct.AcctId" class="btn btn-sm btn-success">View Account</a></td>
+                </tr>
+            }
+        }
+    </table>
+
+</div>

@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IndexViewModel
+
+<div class="text-center" id="content">
+    <div class="block">
+        <h1>Register</h1>
+        <form action="/create/register" method="POST">
+            <div class="form-group">
+                <span asp-validation-for="NewRegistration.FirstName"></span>
+                <label asp-for="NewRegistration.FirstName"></label>
+                <input asp-for="NewRegistration.FirstName">
+            </div>
+            <div class="form-group">
+                <span asp-validation-for="NewRegistration.LastName"></span>
+                <label asp-for="NewRegistration.LastName"></label>
+                <input asp-for="NewRegistration.LastName">
+            </div>
+            <div class="form-group">
+                <span asp-validation-for="NewRegistration.Email"></span>
+                <label asp-for="NewRegistration.Email"></label>
+                <input asp-for="NewRegistration.Email">
+            </div>
+            <div class="form-group">
+                <span asp-validation-for="NewRegistration.Password"></span>
+                <label asp-for="NewRegistration.Password"></label>
+                <input asp-for="NewRegistration.Password">
+            </div>
+            <div class="form-group">
+                <span asp-validation-for="NewRegistration.ConfPass"></span>
+                <label asp-for="NewRegistration.ConfPass"></label>
+                <input asp-for="NewRegistration.ConfPass">
+            </div>
+            <input type="submit" class="btn btn-dark btn-small">
+        </form>
+    </div>
+    <div class="block">
+        <h1>Login</h1>
+        <form action="/create/login" method="POST">
+            <div class="form-group">
+                <span asp-validation-for="NewLogin.Email"></span>
+                <label asp-for="NewLogin.Email"></label>
+                <input asp-for="NewLogin.Email">
+            </div>
+            <div class="form-group">
+                <span asp-validation-for="NewLogin.Password"></span>
+                <label asp-for="NewLogin.Password"></label>
+                <input asp-for="NewLogin.Password">
+            </div>
+            <input type="submit" class="btn btn-dark btn-small">
+        </form>
+    </div>
+</div>

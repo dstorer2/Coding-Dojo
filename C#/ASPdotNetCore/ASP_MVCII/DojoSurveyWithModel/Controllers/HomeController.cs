@@ -27,8 +27,8 @@ public class HomeController : Controller
     [Route("survey")]
     public IActionResult Survey(Survey yourSurvey)
     {
-        Console.WriteLine(yourSurvey)
-        return View();
+        Console.WriteLine(yourSurvey);
+        return View(yourSurvey);
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/DojoSurvey.csproj",
+      "projectUniqueName": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/DojoSurvey.csproj",
       "projectName": "DojoSurvey",
-      "projectPath": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/DojoSurvey.csproj",
+      "projectPath": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/DojoSurvey.csproj",
       "packagesPath": "/Users/davidstorer/.nuget/packages/",
-      "outputPath": "/Users/davidstorer/Documents/code/Coding Dojo/C#/dotnetCORE/DojoSurvey/obj/",
+      "outputPath": "/Users/davidstorer/Documents/code/Coding Dojo/C#/ASPdotNetCore/ASP_MVCII/DojoSurveyWithModel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidstorer/.nuget/NuGet/NuGet.Config"

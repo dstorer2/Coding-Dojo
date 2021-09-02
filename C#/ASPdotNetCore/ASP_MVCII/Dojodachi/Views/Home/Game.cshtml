@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h1>Fullness: @ViewBag.fullness   Happiness: @ViewBag.happiness   Meals: @ViewBag.meals   Energy: @ViewBag.energy</h1>
+    <div class="display">
+        @if(ViewBag.like == 1){
+        <img src="/img/happy_cat.png" alt="dachi_reaction">
+        }
+        <h4>@ViewBag.Prompt</h4>
+    </div>
+    @if(@ViewBag.win == 0){
+    <div class="bottomBar">
+        <a class="btn btn-dark" href="feed" id="feed" onclick="load(event)">Feed</a>
+        <a class="btn btn-dark" href="play" id="play" onclick="load(event)">Play</a>
+        <a class="btn btn-dark" href="work" id="work" onclick="load(event)">Work</a>
+        <a class="btn btn-dark" href="sleep" id="sleep" onclick="load(event)">Sleep</a>
+    </div>
+    }
+    @if(ViewBag.win != 0){
+    <div class="bottomBar">
+        <a class="btn btn-dark" href="/" id="feed">Restart?</a>
+    </div>
+    }
+    
+</div>
